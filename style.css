@@ -44,7 +44,12 @@ main{
     border-radius: 1rem;
     border: none;
 }
-.new-btn{
+#winner{
+    padding: 10px;
+    font-size: 3vmin;
+    color: green;
+}
+#new-btn{
     padding: 1.2rem;
     font-size: 1.2rem;
     background-color: black;
